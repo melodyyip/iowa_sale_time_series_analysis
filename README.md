@@ -6,9 +6,10 @@ Time series forecasting is the use of a model to predict future values based on 
 
 ![Screenshot 2022-02-25 145817](https://user-images.githubusercontent.com/32995324/155786607-1d16f9dc-589a-4f62-955d-0d33dd87e64d.png)
 
-Data
+## Data
 Data Source : https://console.cloud.google.com/marketplace/product/iowa-department-of-commerce/iowa-liquor-sales?project=fiery-province-334423
 
 I used the Iowa Liquor Sales data from Jan 2016 to Dec 2019 only for the time series analysis.
-Goal
+
+## Goal
 Using Time Series Analysis to forecasting sales
